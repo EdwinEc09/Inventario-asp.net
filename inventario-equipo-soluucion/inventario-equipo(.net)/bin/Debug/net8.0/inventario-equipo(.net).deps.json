@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "inventario-equipo(.net)/1.0.0": {
+        "runtime": {
+          "inventario-equipo(.net).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inventario-equipo(.net)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\inventario-equipo(.net).bundle.scp.css",
+      "PackagePath": "staticwebassets\\inventario-equipo(.net).bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist-plugin-tooltip.css",
+      "PackagePath": "staticwebassets\\public\\demo\\chartist-plugin-tooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist-plugin-tooltip.js",
+      "PackagePath": "staticwebassets\\public\\demo\\chartist-plugin-tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist.css",
+      "PackagePath": "staticwebassets\\public\\demo\\chartist.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist.js",
+      "PackagePath": "staticwebassets\\public\\demo\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-area.js",
+      "PackagePath": "staticwebassets\\public\\demo\\gd.chartist-area.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-bar.js",
+      "PackagePath": "staticwebassets\\public\\demo\\gd.chartist-bar.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-donut.js",
+      "PackagePath": "staticwebassets\\public\\demo\\gd.chartist-donut.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-pie.js",
+      "PackagePath": "staticwebassets\\public\\demo\\gd.chartist-pie.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\resizeSensor.js",
+      "PackagePath": "staticwebassets\\public\\demo\\resizeSensor.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.css",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\css\\gd-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.eot",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\css\\gd-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.svg",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\css\\gd-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.ttf",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\css\\gd-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.woff",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\css\\gd-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\graindashboard.css",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\css\\graindashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\js\\graindashboard.js",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\js\\graindashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\js\\graindashboard.vendor.js",
+      "PackagePath": "staticwebassets\\public\\graindashboard\\js\\graindashboard.vendor.js"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\public\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\public\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-light-mini.png",
+      "PackagePath": "staticwebassets\\public\\img\\logo-light-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\public\\img\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-mini.png",
+      "PackagePath": "staticwebassets\\public\\img\\logo-mini.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo.png",
+      "PackagePath": "staticwebassets\\public\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\mix-manifest.json",
+      "PackagePath": "staticwebassets\\public\\mix-manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.inventario-equipo(.net).props",
+      "PackagePath": "build\\inventario-equipo(.net).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.inventario-equipo(.net).props",
+      "PackagePath": "buildMultiTargeting\\inventario-equipo(.net).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.inventario-equipo(.net).props",
+      "PackagePath": "buildTransitive\\inventario-equipo(.net).props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.inventario-equipo(.net).Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
