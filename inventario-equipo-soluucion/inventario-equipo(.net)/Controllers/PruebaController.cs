@@ -2,9 +2,9 @@
 
 namespace inventario_equipo_.net_.Controllers
 {
-    public class LoginController : Controller
+    public class PruebaController : Controller
     {
-        public IActionResult Login()
+        public IActionResult Pagina_muestra()
         {
             return View();
         }

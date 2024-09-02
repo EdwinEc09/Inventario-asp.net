@@ -7,4 +7,8 @@
     <RootNamespace>inventario_equipo_.net_</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Views\Autentificacion\Registro.cshtml.cs" />
+  </ItemGroup>
+
 </Project>

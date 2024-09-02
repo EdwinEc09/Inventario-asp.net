@@ -9,55 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = inventario_equipo_.net_
 build_property.RootNamespace = inventario_equipo_.net_
-build_property.ProjectDir = C:\Users\Usuario\OneDrive - 900067275_MEGA COMERCIAL SAS\Desktop\Proyect .net\inventario-equipo-soluucion\inventario-equipo(.net)\
+build_property.ProjectDir = C:\Users\Usuario\OneDrive - 900067275_MEGA COMERCIAL SAS\Desktop\Proyect .net\Inventario-asp.net\inventario-equipo-soluucion\inventario-equipo(.net)\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Usuario\OneDrive - 900067275_MEGA COMERCIAL SAS\Desktop\Proyect .net\inventario-equipo-soluucion\inventario-equipo(.net)
+build_property.MSBuildProjectDirectory = C:\Users\Usuario\OneDrive - 900067275_MEGA COMERCIAL SAS\Desktop\Proyect .net\Inventario-asp.net\inventario-equipo-soluucion\inventario-equipo(.net)
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Ajustes.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Autentificacion/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZW50aWZpY2FjaW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Autentificacion/Recuperar_clave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZW50aWZpY2FjaW9uXFJlY3VwZXJhcl9jbGF2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Autentificacion/Recuperar_clave2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZW50aWZpY2FjaW9uXFJlY3VwZXJhcl9jbGF2ZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Autentificacion/Registro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZW50aWZpY2FjaW9uXFJlZ2lzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Autentificacion/Verificacion_email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0ZW50aWZpY2FjaW9uXFZlcmlmaWNhY2lvbl9lbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Ajustes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBanVzdGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/EditarUsuarios.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/EditarUsuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0YXJVc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Inicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmljaW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Privacy.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Usuarios.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Home/Usuarios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Login/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Prueba/Pagina_muestra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJ1ZWJhXFBhZ2luYV9tdWVzdHJhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Shared/Error.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/_ViewImports.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/_ViewStart.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Shared/_Layout.cshtml]
+[C:/Users/Usuario/OneDrive - 900067275_MEGA COMERCIAL SAS/Desktop/Proyect .net/Inventario-asp.net/inventario-equipo-soluucion/inventario-equipo(.net)/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zdfhhucnjd

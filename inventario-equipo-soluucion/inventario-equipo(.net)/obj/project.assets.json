@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\inventario-equipo(.net).csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\inventario-equipo(.net).csproj",
       "projectName": "inventario-equipo(.net)",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\inventario-equipo(.net).csproj",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\inventario-equipo(.net).csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

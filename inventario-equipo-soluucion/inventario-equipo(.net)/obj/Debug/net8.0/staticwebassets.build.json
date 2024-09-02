@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fpCYoBcS8Yyo1Hf7z/IBhiW8bA4Mlk1epi/Qh7RTHKk=",
+  "Hash": "2JkDmDF9/g1Y6bRzarm5g9NqH5J2mJ6xvmTtaKZ6lmQ=",
   "Source": "inventario-equipo(.net)",
   "BasePath": "_content/inventario-equipo(.net)",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "inventario-equipo(.net)\\wwwroot",
       "Source": "inventario-equipo(.net)",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\bundle\\inventario-equipo(.net).styles.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\bundle\\inventario-equipo(.net).styles.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "inventario-equipo(.net).styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\bundle\\inventario-equipo(.net).styles.css"
+      "OriginalItemSpec": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\bundle\\inventario-equipo(.net).styles.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\inventario-equipo(.net).bundle.scp.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\inventario-equipo(.net).bundle.scp.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "inventario-equipo(.net).bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\inventario-equipo(.net).bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\inventario-equipo(.net).bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\css\\site.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\favicon.ico",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\js\\site.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/chartist.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\chartist.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/chartist.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\chartist.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist-plugin-tooltip.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist-plugin-tooltip.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/chartist-plugin-tooltip.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\chartist-plugin-tooltip.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist-plugin-tooltip.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\chartist-plugin-tooltip.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/chartist-plugin-tooltip.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\chartist-plugin-tooltip.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-area.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-area.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/gd.chartist-area.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\gd.chartist-area.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-bar.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-bar.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/gd.chartist-bar.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\gd.chartist-bar.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-donut.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-donut.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/gd.chartist-donut.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\gd.chartist-donut.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-pie.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\gd.chartist-pie.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/gd.chartist-pie.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\gd.chartist-pie.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\resizeSensor.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\demo\\resizeSensor.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/demo/resizeSensor.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\public\\demo\\resizeSensor.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/css/gd-icons.css",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\css\\gd-icons.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.eot",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.eot",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/css/gd-icons.eot",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\css\\gd-icons.eot"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.svg",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.svg",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/css/gd-icons.svg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\css\\gd-icons.svg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.ttf",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.ttf",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/css/gd-icons.ttf",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\css\\gd-icons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.woff",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\gd-icons.woff",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/css/gd-icons.woff",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\css\\gd-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\graindashboard.css",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\css\\graindashboard.css",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/css/graindashboard.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\css\\graindashboard.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\js\\graindashboard.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\js\\graindashboard.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/js/graindashboard.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\js\\graindashboard.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\js\\graindashboard.vendor.js",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\graindashboard\\js\\graindashboard.vendor.js",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/graindashboard/js/graindashboard.vendor.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\public\\graindashboard\\js\\graindashboard.vendor.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\favicon.ico",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\favicon.ico",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/img/favicon.ico",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\public\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\favicon.png",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\favicon.png",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/img/favicon.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\public\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo.png",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo.png",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/img/logo.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\public\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-light.png",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-light.png",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/img/logo-light.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\public\\img\\logo-light.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-light-mini.png",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-light-mini.png",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/img/logo-light-mini.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\public\\img\\logo-light-mini.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-mini.png",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\img\\logo-mini.png",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/img/logo-mini.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\public\\img\\logo-mini.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\mix-manifest.json",
+      "Identity": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\public\\mix-manifest.json",
       "SourceId": "inventario-equipo(.net)",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\wwwroot\\",
       "BasePath": "_content/inventario-equipo(.net)",
       "RelativePath": "public/mix-manifest.json",
       "AssetKind": "All",

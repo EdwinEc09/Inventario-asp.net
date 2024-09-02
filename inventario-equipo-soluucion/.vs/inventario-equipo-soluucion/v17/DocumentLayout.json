@@ -1,42 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\home\\editarusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\home\\editarusuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\home\\ajustes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\home\\ajustes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\home\\ajustes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\autentificacion\\recuperar_clave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\autentificacion\\recuperar_clave.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\autentificacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\autentificacion\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\controllers\\autentificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\controllers\\autentificacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|c:\\users\\usuario\\onedrive - 900067275_mega comercial sas\\desktop\\proyect .net\\inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\views\\autentificacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D602E563-4E79-4C1C-86D2-26F9C5D7F866}|inventario-equipo(.net)\\inventario-equipo(.net).csproj|solutionrelative:inventario-equipo(.net)\\views\\autentificacion\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,8 +38,22 @@
       "DocumentGroups": [
         {
           "DockedHeight": 411,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAwMoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T14:49:02.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -55,118 +61,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Login\\Login.cshtml",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Login\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Login\\Login.cshtml",
-              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Title": "Ajustes.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
+              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
+              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T16:44:20.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "inventario-equipo(.net)\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:43:42.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Program.cs",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Program.cs",
-              "RelativeToolTip": "inventario-equipo(.net)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:39:39.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuarios.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Usuarios.cshtml",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Home\\Usuarios.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Usuarios.cshtml",
-              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Home\\Usuarios.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T16:26:37.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "inventario-equipo(.net)\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T16:04:43.22Z",
+              "WhenOpened": "2024-09-02T20:48:43.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABqAAAAAAAAAA==",
+              "Title": "Recuperar_clave.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Autentificacion\\Recuperar_clave.cshtml",
+              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Autentificacion\\Recuperar_clave.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Autentificacion\\Recuperar_clave.cshtml",
+              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Autentificacion\\Recuperar_clave.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T15:04:45.654Z",
+              "WhenOpened": "2024-09-02T18:14:27.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditarUsuarios.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\EditarUsuarios.cshtml",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Home\\EditarUsuarios.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\EditarUsuarios.cshtml",
-              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Home\\EditarUsuarios.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T16:30:52.489Z",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Program.cs",
+              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Program.cs",
+              "RelativeToolTip": "inventario-equipo(.net)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:08:32.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Ajustes.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
-              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Home\\Ajustes.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T16:03:44.867Z",
+              "Title": "AutentificacionController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Controllers\\AutentificacionController.cs",
+              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Controllers\\AutentificacionController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Controllers\\AutentificacionController.cs",
+              "RelativeToolTip": "inventario-equipo(.net)\\Controllers\\AutentificacionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:07:44.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Autentificacion\\Registro.cshtml",
+              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Autentificacion\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Autentificacion\\Registro.cshtml",
+              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Autentificacion\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T15:03:58.012Z",
+              "WhenOpened": "2024-09-02T18:06:30.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Autentificacion\\Login.cshtml",
+              "RelativeDocumentMoniker": "inventario-equipo(.net)\\Views\\Autentificacion\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive - 900067275_MEGA COMERCIAL SAS\\Desktop\\Proyect .net\\Inventario-asp.net\\inventario-equipo-soluucion\\inventario-equipo(.net)\\Views\\Autentificacion\\Login.cshtml",
+              "RelativeToolTip": "inventario-equipo(.net)\\Views\\Autentificacion\\Login.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T18:06:05.472Z",
               "EditorCaption": ""
             }
           ]

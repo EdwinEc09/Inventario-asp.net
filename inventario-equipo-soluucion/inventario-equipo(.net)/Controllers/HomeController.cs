@@ -13,7 +13,7 @@ namespace inventario_equipo_.net_.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Inicio()
         {
             return View();
         }
