@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("inventario-equipo(.net)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cae15de2dc637b718f2b28317bc509aeca47ac1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eedcec8d3c9282120bdf26983e5787459e5f32e")]
 [assembly: System.Reflection.AssemblyProductAttribute("inventario-equipo(.net)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("inventario-equipo(.net)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
